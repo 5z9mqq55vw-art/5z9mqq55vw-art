@@ -1,41 +1,26 @@
-# 💀 Profile
+# Amit Dankner
 
-**Security Researcher | Smart Contract Auditor | Red Team Operator | Red Team Operator**
+**Security Researcher | Smart Contract Auditor | Red Team Operator**
+
+Blockchain security researcher focused on smart contract auditing, DeFi protocol analysis, and offensive security research. I build educational PoCs and tools to advance Web3 security.
 
 ---
 
 ### 🛠️ Tech Stack
 
-```
-Solidity  |  Rust  |  TypeScript  |  Python  |  Node.js
-Ethereum  |  EVM  |  Solana  |  Bitcoin  |  DeFi
-Smart Contract Security  |  Reverse Engineering
-```
-
-### 🏆 Achievements
-
-| Badge | Status |
-|-------|--------|
-| 🦈 **Pull Shark** | ✅ Bronze (2 merged PRs) |
-| 🎲 **YOLO** | ✅ Merged without review |
-| 🔫 **Quickdraw** | ✅ PR closed within 5 min |
-| ❤️ **Heart on Your Sleeve** | ✅ Reacted with heart |
-| 🫂 **Pair Extraordinaire** | ✅ Co-authored commits |
-| 🎯 **Open Source Contributor** | ✅ PR to open source |
+| Category | Technologies |
+|----------|-------------|
+| Languages | Solidity, Rust, TypeScript, Python, JavaScript |
+| Platforms | Ethereum, EVM, Solana, Bitcoin, DeFi |
+| Security | Smart Contract Auditing, Reverse Engineering, Penetration Testing |
+| Tools | Hardhat, Foundry, Slither, Echidna, Ghidra |
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5z9mqq55vw-art&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=5z9mqq55vw-art&show_icons=true&theme=radical&show=reviews,discussions_answered&hide=contribs)
 
 ---
 
-### 🔗 Links
-
-- **Drainer PoC:** [crypto-drainer-poc](https://github.com/5z9mqq55vw-art/crypto-drainer-poc)
-- **Contact:** Telegram / Discord
-
----
-
-*Built for security research and educational purposes.*
+*Security research and educational purposes only.*
