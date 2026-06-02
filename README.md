@@ -1,6 +1,6 @@
 # 💀 Profile
 
-**Security Researcher | Smart Contract Auditor | Red Team Operator**
+**Security Researcher | Smart Contract Auditor | Red Team Operator | Red Team Operator**
 
 ---
 
